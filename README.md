@@ -29,8 +29,8 @@ companion, published on npm. Controlled state rather than hidden storage, the
 full ARIA menu pattern, a walk cycle whose frames follow distance travelled
 instead of a separate clock, and sprite paths escaped during server rendering
 to prevent CSS injection. Verified in Chromium, Firefox and WebKit.
+→ [Live demo](https://pixelpet-eight.vercel.app/) · [`npm i @vrixton/pixel-pet`](https://www.npmjs.com/package/@vrixton/pixel-pet)
 
-→ [`npm i @vrixton/pixel-pet`](https://www.npmjs.com/package/@vrixton/pixel-pet)
 
 ---
 
